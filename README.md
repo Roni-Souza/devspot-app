@@ -37,33 +37,60 @@ Aplicativo mobile desenvolvido com **Expo** e **React Native** para a atividade 
 
 ## 📱 Telas do aplicativo
 
+Confira as telas do DEV.SPOT nos modos escuro e claro, incluindo as interações com os botões e o switch.
 
-## 📱 Telas do aplicativo
+---
 
-### Modo escuro
+### 🌙 Modo escuro
+
+**Entre em contato**
 
 ![Modo escuro](./prints/entre-em-contato-dark.png)
 
+**Home 1 Dark**
+
 ![Modo escuro](./prints/home-1-dark.png)
+
+**Home 2 Dark**
 
 ![Modo escuro](./prints/home-2-dark.png)
 
+**Switch pressionado Dark**
+
 ![Modo escuro](./prints/switch-pressionado-dark.png)
+
+**Tela sobre mim 1 Dark**
 
 ![Modo escuro](./prints/tela-sobre-mim-1-dark.png)
 
+**Tela sobre mim 2 Dark**
+
 ![Modo escuro](./prints/tela-sobre-mim-2-dark.png)
 
-### Modo claro
+---
+
+### ☀️ Modo claro
+
+**Entre em contato White**
 
 ![Modo claro](./prints/entre-em-contato-white.png)
 
+**Home 1 White**
+
 ![Modo claro](./prints/home-1-white.png)
+
+**Home 2 White**
 
 ![Modo claro](./prints/home-2-white.png)
 
+**Switch pressionado White**
+
 ![Modo claro](./prints/switch-pressionado-white.png)
 
+**Tela sobre mim 1 White**
+
 ![Modo claro](./prints/tela-sobre-mim-1-white.png)
+
+**Tela sobre mim 2 White**
 
 ![Modo claro](./prints/tela-sobre-mim-2-white.png)
