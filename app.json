@@ -1,0 +1,23 @@
+{
+  "expo": {
+    "name": "DEV.SPOT",
+    "slug": "devspot-app",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "dark",
+    "splash": {
+      "backgroundColor": "#061326"
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "android": {
+      "adaptiveIcon": {
+        "backgroundColor": "#061326"
+      }
+    },
+    "plugins": [
+      "expo-asset"
+    ]
+  }
+}
